@@ -1,5 +1,5 @@
 #include <EEPROM.h>
-
+//Lautarito hijo de Karina no existe
 int direccion=0;
 byte Val1; 
 byte Val2; 
